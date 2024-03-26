@@ -1,0 +1,1686 @@
+{
+  "displays": [
+      {
+          "id": 13563,
+          "name": "Light Blue Striped Fine Twill Shirt",
+          "type": "Shirt",
+          "uri": "light-blue-fine-twill",
+          "colorLinks": [
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 13563,
+                  "uri": "light-blue-fine-twill",
+                  "retailImage": {
+                      "mediaKey": "6f60e642-7ca0-4901-affc-b2b24543d1ef",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-27T18:10:54.598Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 25403,
+                  "articleNumber": "10000362021",
+                  "bodyfitId": "2",
+                  "bodyfitName": "Slim fit",
+                  "priceGroup": "5",
+                  "isAvailableCustomMade": true,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "1149b8e8-52a9-4af0-bdaa-9c909abb4eee",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-01T14:55:54.046Z"
+                      },
+                      "hover": {
+                          "mediaKey": "0080fb33-9224-4adc-9b0c-b6d51c258849",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-27T18:10:57.811Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "7d104497-bcb1-43d9-9da7-4a8f656d255d",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-27T18:15:51.489Z"
+                      },
+                      "detail": {
+                          "mediaKey": "6f60e642-7ca0-4901-affc-b2b24543d1ef",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-27T18:10:54.598Z"
+                      },
+                      "collar": {
+                          "mediaKey": "0080fb33-9224-4adc-9b0c-b6d51c258849",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-27T18:10:57.811Z"
+                      },
+                      "cuff": {
+                          "mediaKey": "8ee24308-45d9-439c-8f52-2d88cb6cea07",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-01T14:55:54.025Z"
+                      },
+                      "gallery": [
+                          {
+                              "mediaKey": "1149b8e8-52a9-4af0-bdaa-9c909abb4eee",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:54.046Z"
+                          },
+                          {
+                              "mediaKey": "7d104497-bcb1-43d9-9da7-4a8f656d255d",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-27T18:15:51.489Z"
+                          },
+                          {
+                              "mediaKey": "5259f7b2-8432-4fc6-8a6e-4f3615f4effc",
+                              "source": "bynder",
+                              "updatedAt": "2023-04-03T10:54:49.6Z"
+                          },
+                          {
+                              "mediaKey": "6f60e642-7ca0-4901-affc-b2b24543d1ef",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-27T18:10:54.598Z"
+                          },
+                          {
+                              "mediaKey": "0080fb33-9224-4adc-9b0c-b6d51c258849",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-27T18:10:57.811Z"
+                          },
+                          {
+                              "mediaKey": "33b1bc50-6ae7-4f66-88ea-7c8383023812",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:54.006Z"
+                          },
+                          {
+                              "mediaKey": "c8fdfbab-d6a0-4906-a0eb-5d8a7b882b7a",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:54.157Z"
+                          },
+                          {
+                              "mediaKey": "8ee24308-45d9-439c-8f52-2d88cb6cea07",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:54.025Z"
+                          },
+                          {
+                              "mediaKey": "67c4e7db-555e-4f3d-9c24-712dcf95fec0",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:53.984Z"
+                          },
+                          {
+                              "mediaKey": "e8427b1b-5921-4963-b79a-d495cf76d7cd",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:54.337Z"
+                          },
+                          {
+                              "mediaKey": "1c509920-b362-451b-9564-9938f1bf1d4d",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:54.501Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 2000,
+                      "formattedPrice": "2 000 kr",
+                      "priceBeforeDiscount": 2000,
+                      "formattedPriceBeforeDiscount": "2 000 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              },
+              {
+                  "id": 25404,
+                  "articleNumber": "10000362121",
+                  "bodyfitId": "3",
+                  "bodyfitName": "Contemporary fit",
+                  "priceGroup": "5",
+                  "isAvailableCustomMade": true,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "1cea00c6-7661-47a1-9e6e-c1994e587bdd",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-01T14:55:52.974Z"
+                      },
+                      "hover": {
+                          "mediaKey": "18db79d4-9670-48e8-87e3-cd7ad147b567",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-27T18:15:59.588Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "e8e66760-a25f-43a6-b174-f890dc11464e",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-27T18:20:49.568Z"
+                      },
+                      "detail": {
+                          "mediaKey": "a3b2df56-33bf-4237-bdf5-4817cc2d3ce7",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-27T18:16:00.985Z"
+                      },
+                      "collar": {
+                          "mediaKey": "18db79d4-9670-48e8-87e3-cd7ad147b567",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-27T18:15:59.588Z"
+                      },
+                      "cuff": {
+                          "mediaKey": "5a9ac120-e4ff-4263-9582-1ea6146fc8fa",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-01T14:55:52.74Z"
+                      },
+                      "gallery": [
+                          {
+                              "mediaKey": "1cea00c6-7661-47a1-9e6e-c1994e587bdd",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:52.974Z"
+                          },
+                          {
+                              "mediaKey": "e8e66760-a25f-43a6-b174-f890dc11464e",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-27T18:20:49.568Z"
+                          },
+                          {
+                              "mediaKey": "f74860fe-2351-48ea-8824-c2ff20f3aeaa",
+                              "source": "bynder",
+                              "updatedAt": "2023-04-03T10:54:51.433Z"
+                          },
+                          {
+                              "mediaKey": "a3b2df56-33bf-4237-bdf5-4817cc2d3ce7",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-27T18:16:00.985Z"
+                          },
+                          {
+                              "mediaKey": "18db79d4-9670-48e8-87e3-cd7ad147b567",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-27T18:15:59.588Z"
+                          },
+                          {
+                              "mediaKey": "9e63d281-5a47-422a-909a-2d129463a95a",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:52.537Z"
+                          },
+                          {
+                              "mediaKey": "9720218c-d6ef-41c8-9322-173c15f04ae8",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:53.047Z"
+                          },
+                          {
+                              "mediaKey": "5a9ac120-e4ff-4263-9582-1ea6146fc8fa",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:52.74Z"
+                          },
+                          {
+                              "mediaKey": "a5c28335-b0aa-42ad-aadd-eeca0a3eb536",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:52.617Z"
+                          },
+                          {
+                              "mediaKey": "c64d9787-55eb-4f1c-8275-ed1cb0e6e1c4",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:53.217Z"
+                          },
+                          {
+                              "mediaKey": "1da17050-23cb-4a8b-924d-a99bbe9a6c1c",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-01T14:55:53.497Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 2000,
+                      "formattedPrice": "2 000 kr",
+                      "priceBeforeDiscount": 2000,
+                      "formattedPriceBeforeDiscount": "2 000 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      },
+      {
+          "id": 7266,
+          "name": "White Signature Twill Shirt",
+          "type": "Shirt",
+          "uri": "white-shirt-signature-twill",
+          "colorLinks": [
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 7271,
+                  "uri": "light-blue-shirt-signature-twill",
+                  "retailImage": {
+                      "mediaKey": "b58dfbb5-f983-4871-937c-28aceabe28ed",
+                      "source": "bynder",
+                      "updatedAt": "2024-02-15T09:40:53.634Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "1",
+                  "colorName": "White",
+                  "displayId": 7266,
+                  "uri": "white-shirt-signature-twill",
+                  "retailImage": {
+                      "mediaKey": "ed512c40-cefd-4be7-9b38-1b2a4abc3c92",
+                      "source": "bynder",
+                      "updatedAt": "2024-02-22T08:30:49.354Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "4",
+                  "colorName": "Black",
+                  "displayId": 6958,
+                  "uri": "black-shirt-signature-twill",
+                  "retailImage": {
+                      "mediaKey": "eae1bc1f-3211-459d-bd62-13cfe62c9635",
+                      "source": "bynder",
+                      "updatedAt": "2024-02-21T10:10:50.295Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 6960,
+                  "uri": "navy-shirt-signature-twill",
+                  "retailImage": {
+                      "mediaKey": "0bd627dc-d994-446e-b301-64235bfa3679",
+                      "source": "bynder",
+                      "updatedAt": "2023-11-16T12:00:49.523Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "2",
+                  "colorName": "Off white",
+                  "displayId": 6961,
+                  "uri": "off-white-twill-shirt",
+                  "retailImage": {
+                      "mediaKey": "867684b5-8676-41aa-b9c3-3966114136b8",
+                      "source": "bynder",
+                      "updatedAt": "2024-02-22T09:40:50.929Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "9",
+                  "colorName": "Pink",
+                  "displayId": 6964,
+                  "uri": "pink-shirt-signature-twill",
+                  "retailImage": {
+                      "mediaKey": "f57f7836-75e2-4b83-a4e4-edac9f67f758",
+                      "source": "bynder",
+                      "updatedAt": "2024-02-22T09:25:52.031Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "12",
+                  "colorName": "Purple",
+                  "displayId": 6963,
+                  "uri": "purple-shirt-signature-twill",
+                  "retailImage": {
+                      "mediaKey": "73535c53-5fd0-40d6-8f56-29d5e1d1b174",
+                      "source": "bynder",
+                      "updatedAt": "2024-02-22T09:25:52.509Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 37731,
+                  "articleNumber": "10001234200",
+                  "bodyfitId": "2",
+                  "bodyfitName": "Slim fit",
+                  "priceGroup": "",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "5aa3cb0c-0087-4d8f-96e6-902dfcd8839a",
+                          "source": "bynder",
+                          "updatedAt": "2024-03-11T13:55:50.913Z"
+                      },
+                      "hover": {
+                          "mediaKey": "2eed93b4-5484-458c-92fa-ebf8f7e64e16",
+                          "source": "bynder",
+                          "updatedAt": "2024-02-22T08:25:50.215Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "e3415b5c-b1ba-44a8-b1be-45b66679d57b",
+                          "source": "bynder",
+                          "updatedAt": "2024-02-22T08:25:50.721Z"
+                      },
+                      "detail": {
+                          "mediaKey": "ed512c40-cefd-4be7-9b38-1b2a4abc3c92",
+                          "source": "bynder",
+                          "updatedAt": "2024-02-22T08:30:49.354Z"
+                      },
+                      "collar": {
+                          "mediaKey": "2eed93b4-5484-458c-92fa-ebf8f7e64e16",
+                          "source": "bynder",
+                          "updatedAt": "2024-02-22T08:25:50.215Z"
+                      },
+                      "cuff": {
+                          "mediaKey": "a64e801e-1ac1-4615-b8a4-43d51c3b39a2",
+                          "source": "bynder",
+                          "updatedAt": "2024-03-11T13:55:50.829Z"
+                      },
+                      "gallery": [
+                          {
+                              "mediaKey": "5aa3cb0c-0087-4d8f-96e6-902dfcd8839a",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T13:55:50.913Z"
+                          },
+                          {
+                              "mediaKey": "e3415b5c-b1ba-44a8-b1be-45b66679d57b",
+                              "source": "bynder",
+                              "updatedAt": "2024-02-22T08:25:50.721Z"
+                          },
+                          {
+                              "mediaKey": "ed512c40-cefd-4be7-9b38-1b2a4abc3c92",
+                              "source": "bynder",
+                              "updatedAt": "2024-02-22T08:30:49.354Z"
+                          },
+                          {
+                              "mediaKey": "2eed93b4-5484-458c-92fa-ebf8f7e64e16",
+                              "source": "bynder",
+                              "updatedAt": "2024-02-22T08:25:50.215Z"
+                          },
+                          {
+                              "mediaKey": "a5762b8d-0e32-487d-bd0f-8288d0c1bd62",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T13:55:50.848Z"
+                          },
+                          {
+                              "mediaKey": "a64e801e-1ac1-4615-b8a4-43d51c3b39a2",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T13:55:50.829Z"
+                          },
+                          {
+                              "mediaKey": "b43707e1-cca4-4f5a-8f49-d94c14e7e7b4",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T13:55:50.739Z"
+                          },
+                          {
+                              "mediaKey": "a263774f-4052-4d4a-b97a-14e724570858",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T13:55:50.957Z"
+                          },
+                          {
+                              "mediaKey": "1cf22291-312d-4c6b-af90-b657f488a3bf",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T13:55:51.058Z"
+                          },
+                          {
+                              "mediaKey": "f5ecc64d-8e54-49b4-baab-fd5e517e133f",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T13:55:50.976Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 1700,
+                      "formattedPrice": "1 700 kr",
+                      "priceBeforeDiscount": 1700,
+                      "formattedPriceBeforeDiscount": "1 700 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              },
+              {
+                  "id": 37737,
+                  "articleNumber": "10001236300",
+                  "bodyfitId": "3",
+                  "bodyfitName": "Contemporary fit",
+                  "priceGroup": "",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "6d7fb98e-b4df-49b1-a77f-4b0de0ec87bd",
+                          "source": "bynder",
+                          "updatedAt": "2024-03-11T14:00:49.846Z"
+                      },
+                      "hover": {
+                          "mediaKey": "153d96be-0917-4494-96e7-6b8a37529214",
+                          "source": "bynder",
+                          "updatedAt": "2024-02-22T09:40:50.123Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "54919192-3390-49b8-9d6a-dbbbc7101d1f",
+                          "source": "bynder",
+                          "updatedAt": "2024-02-22T09:40:50.987Z"
+                      },
+                      "detail": {
+                          "mediaKey": "91b2ec3a-c38d-4e23-89b9-e004333fc93d",
+                          "source": "bynder",
+                          "updatedAt": "2024-02-22T09:40:50.723Z"
+                      },
+                      "collar": {
+                          "mediaKey": "153d96be-0917-4494-96e7-6b8a37529214",
+                          "source": "bynder",
+                          "updatedAt": "2024-02-22T09:40:50.123Z"
+                      },
+                      "cuff": {
+                          "mediaKey": "7a7f6059-c253-4fa2-9aa4-7a441e20ee65",
+                          "source": "bynder",
+                          "updatedAt": "2024-03-11T14:00:49.748Z"
+                      },
+                      "gallery": [
+                          {
+                              "mediaKey": "6d7fb98e-b4df-49b1-a77f-4b0de0ec87bd",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:00:49.846Z"
+                          },
+                          {
+                              "mediaKey": "54919192-3390-49b8-9d6a-dbbbc7101d1f",
+                              "source": "bynder",
+                              "updatedAt": "2024-02-22T09:40:50.987Z"
+                          },
+                          {
+                              "mediaKey": "91b2ec3a-c38d-4e23-89b9-e004333fc93d",
+                              "source": "bynder",
+                              "updatedAt": "2024-02-22T09:40:50.723Z"
+                          },
+                          {
+                              "mediaKey": "153d96be-0917-4494-96e7-6b8a37529214",
+                              "source": "bynder",
+                              "updatedAt": "2024-02-22T09:40:50.123Z"
+                          },
+                          {
+                              "mediaKey": "3600202b-b3a2-442a-9884-c4b16fb36056",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:00:49.704Z"
+                          },
+                          {
+                              "mediaKey": "7a7f6059-c253-4fa2-9aa4-7a441e20ee65",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:00:49.748Z"
+                          },
+                          {
+                              "mediaKey": "af5124d5-956f-4405-a433-96aac0106cdf",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:00:49.655Z"
+                          },
+                          {
+                              "mediaKey": "e1216709-ab4a-4f81-bf57-a3223d407c26",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:00:50.129Z"
+                          },
+                          {
+                              "mediaKey": "9c79d9bf-c102-493a-87dc-07d3710e99df",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:00:49.89Z"
+                          },
+                          {
+                              "mediaKey": "b0773f6a-47d4-4abb-a954-7bb34c80ed0f",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:00:49.913Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 1700,
+                      "formattedPrice": "1 700 kr",
+                      "priceBeforeDiscount": 1700,
+                      "formattedPriceBeforeDiscount": "1 700 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              },
+              {
+                  "id": 14157,
+                  "articleNumber": "30007901100",
+                  "bodyfitId": "4",
+                  "bodyfitName": "Classic  fit",
+                  "priceGroup": "3",
+                  "isAvailableCustomMade": true,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "d100124a-7edf-47ac-a272-ff2cf82ba2fb",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-07T08:01:00.999Z"
+                      },
+                      "hover": {
+                          "mediaKey": "85accb9b-a258-49f7-9c42-05b6b724fc73",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-07T07:51:02.352Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "d100124a-7edf-47ac-a272-ff2cf82ba2fb",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-07T08:01:00.999Z"
+                      },
+                      "detail": {
+                          "mediaKey": "a8986fe9-b1cf-49ef-817d-a9985b62d864",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-07T07:57:04.987Z"
+                      },
+                      "collar": {
+                          "mediaKey": "85accb9b-a258-49f7-9c42-05b6b724fc73",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-07T07:51:02.352Z"
+                      },
+                      "cuff": null,
+                      "gallery": [
+                          {
+                              "mediaKey": "d100124a-7edf-47ac-a272-ff2cf82ba2fb",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-07T08:01:00.999Z"
+                          },
+                          {
+                              "mediaKey": "a8986fe9-b1cf-49ef-817d-a9985b62d864",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-07T07:57:04.987Z"
+                          },
+                          {
+                              "mediaKey": "85accb9b-a258-49f7-9c42-05b6b724fc73",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-07T07:51:02.352Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 1700,
+                      "formattedPrice": "1 700 kr",
+                      "priceBeforeDiscount": 1700,
+                      "formattedPriceBeforeDiscount": "1 700 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              },
+              {
+                  "id": 14161,
+                  "articleNumber": "30007981100",
+                  "bodyfitId": "1",
+                  "bodyfitName": "Super slim fit",
+                  "priceGroup": "3",
+                  "isAvailableCustomMade": true,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "c7f09586-3a38-48ea-8c13-aa79f429f751",
+                          "source": "bynder",
+                          "updatedAt": "2023-05-15T14:25:51.056Z"
+                      },
+                      "hover": {
+                          "mediaKey": "99ff7d7a-abb3-43dd-9af3-cddf74d1b4ab",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-07T07:55:58.642Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "12e53b95-3adb-4f4d-a850-28fbfd834d85",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-07T07:40:49.964Z"
+                      },
+                      "detail": {
+                          "mediaKey": "bd93e86f-42fb-4444-9163-c280c6a8994d",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-07T08:00:50.128Z"
+                      },
+                      "collar": {
+                          "mediaKey": "99ff7d7a-abb3-43dd-9af3-cddf74d1b4ab",
+                          "source": "bynder",
+                          "updatedAt": "2023-03-07T07:55:58.642Z"
+                      },
+                      "cuff": {
+                          "mediaKey": "2cf6546b-5a82-4f25-8f70-b66226946a4c",
+                          "source": "bynder",
+                          "updatedAt": "2023-05-15T14:25:50.991Z"
+                      },
+                      "gallery": [
+                          {
+                              "mediaKey": "c7f09586-3a38-48ea-8c13-aa79f429f751",
+                              "source": "bynder",
+                              "updatedAt": "2023-05-15T14:25:51.056Z"
+                          },
+                          {
+                              "mediaKey": "468c84b6-1654-4f92-a38d-a8d4cf5c488d",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:10:49.519Z"
+                          },
+                          {
+                              "mediaKey": "12e53b95-3adb-4f4d-a850-28fbfd834d85",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-07T07:40:49.964Z"
+                          },
+                          {
+                              "mediaKey": "7fabe15c-6d73-4532-9bb7-0a5a8f696a5e",
+                              "source": "bynder",
+                              "updatedAt": "2023-04-03T10:56:25.264Z"
+                          },
+                          {
+                              "mediaKey": "bd93e86f-42fb-4444-9163-c280c6a8994d",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-07T08:00:50.128Z"
+                          },
+                          {
+                              "mediaKey": "99ff7d7a-abb3-43dd-9af3-cddf74d1b4ab",
+                              "source": "bynder",
+                              "updatedAt": "2023-03-07T07:55:58.642Z"
+                          },
+                          {
+                              "mediaKey": "aa195b6d-f64c-4dc8-9e86-dbcb4756474c",
+                              "source": "bynder",
+                              "updatedAt": "2023-05-15T14:25:50.964Z"
+                          },
+                          {
+                              "mediaKey": "7c7ff8ec-6ae2-474e-adc0-538ee895185f",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:10:49.947Z"
+                          },
+                          {
+                              "mediaKey": "2cf6546b-5a82-4f25-8f70-b66226946a4c",
+                              "source": "bynder",
+                              "updatedAt": "2023-05-15T14:25:50.991Z"
+                          },
+                          {
+                              "mediaKey": "7e1396b8-3e17-4178-96c8-f3b013dacefb",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:10:49.439Z"
+                          },
+                          {
+                              "mediaKey": "7f483a7e-8dd8-4fb9-a708-28e3bfa39441",
+                              "source": "bynder",
+                              "updatedAt": "2023-05-15T14:25:51.017Z"
+                          },
+                          {
+                              "mediaKey": "1a5f8bf3-e37a-4679-9570-3a95879a5171",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:10:49.799Z"
+                          },
+                          {
+                              "mediaKey": "ce63211f-e0cd-4127-b5f5-a80575901b4f",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:10:49.663Z"
+                          },
+                          {
+                              "mediaKey": "9e713bd4-f3f5-4402-8fcc-c0efa88d9810",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:10:49.971Z"
+                          },
+                          {
+                              "mediaKey": "be87a505-4e33-4b54-b632-ca749c30d3b3",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-11T14:10:49.925Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 1700,
+                      "formattedPrice": "1 700 kr",
+                      "priceBeforeDiscount": 1700,
+                      "formattedPriceBeforeDiscount": "1 700 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      },
+      {
+          "id": 7622,
+          "name": "Pink Silk Pocket Square",
+          "type": "Accessory",
+          "uri": "pink-lemonade-silk-pocket-square",
+          "colorLinks": [
+              {
+                  "colorId": "3",
+                  "colorName": "Gray",
+                  "displayId": 7619,
+                  "uri": "grey-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "65ab32a3-e2ed-46c2-9a47-6270d037b7b8",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:51.158Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 7620,
+                  "uri": "blue-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "95406430-1b15-452a-9d93-ec62c69f1aed",
+                      "source": "bynder",
+                      "updatedAt": "2024-03-07T11:05:53.348Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "7",
+                  "colorName": "Yellow",
+                  "displayId": 7621,
+                  "uri": "daffodil-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "290208c5-b289-427e-98fb-5d1dba58c677",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:51.971Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "12",
+                  "colorName": "Purple",
+                  "displayId": 7624,
+                  "uri": "lavender-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "f3c2708a-f013-4ef4-a207-572ee43b8feb",
+                      "source": "bynder",
+                      "updatedAt": "2023-06-02T06:00:49.86Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "2",
+                  "colorName": "Off white",
+                  "displayId": 7618,
+                  "uri": "vanilla-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "ae46b540-7d2c-4fa9-b872-99d6f6733a93",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:50.786Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "9",
+                  "colorName": "Pink",
+                  "displayId": 7622,
+                  "uri": "pink-lemonade-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "40b913c5-15c6-4b51-8e8a-ee127d376e86",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:52.674Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 15141,
+                  "articleNumber": "A0003246854",
+                  "bodyfitId": "",
+                  "bodyfitName": "",
+                  "priceGroup": "",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "40b913c5-15c6-4b51-8e8a-ee127d376e86",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:00:52.674Z"
+                      },
+                      "hover": {
+                          "mediaKey": "83da472f-b992-4a78-9f5d-b44a51dbdb9b",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:00:52.742Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "40b913c5-15c6-4b51-8e8a-ee127d376e86",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:00:52.674Z"
+                      },
+                      "detail": null,
+                      "collar": null,
+                      "cuff": null,
+                      "gallery": [
+                          {
+                              "mediaKey": "40b913c5-15c6-4b51-8e8a-ee127d376e86",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-22T11:00:52.674Z"
+                          },
+                          {
+                              "mediaKey": "83da472f-b992-4a78-9f5d-b44a51dbdb9b",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-22T11:00:52.742Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 499,
+                      "formattedPrice": "499 kr",
+                      "priceBeforeDiscount": 499,
+                      "formattedPriceBeforeDiscount": "499 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      },
+      {
+          "id": 7620,
+          "name": "Light Blue Silk Pocket Square",
+          "type": "Accessory",
+          "uri": "blue-silk-pocket-square",
+          "colorLinks": [
+              {
+                  "colorId": "3",
+                  "colorName": "Gray",
+                  "displayId": 7619,
+                  "uri": "grey-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "65ab32a3-e2ed-46c2-9a47-6270d037b7b8",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:51.158Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 7620,
+                  "uri": "blue-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "95406430-1b15-452a-9d93-ec62c69f1aed",
+                      "source": "bynder",
+                      "updatedAt": "2024-03-07T11:05:53.348Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "7",
+                  "colorName": "Yellow",
+                  "displayId": 7621,
+                  "uri": "daffodil-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "290208c5-b289-427e-98fb-5d1dba58c677",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:51.971Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "12",
+                  "colorName": "Purple",
+                  "displayId": 7624,
+                  "uri": "lavender-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "f3c2708a-f013-4ef4-a207-572ee43b8feb",
+                      "source": "bynder",
+                      "updatedAt": "2023-06-02T06:00:49.86Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "2",
+                  "colorName": "Off white",
+                  "displayId": 7618,
+                  "uri": "vanilla-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "ae46b540-7d2c-4fa9-b872-99d6f6733a93",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:50.786Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "9",
+                  "colorName": "Pink",
+                  "displayId": 7622,
+                  "uri": "pink-lemonade-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "40b913c5-15c6-4b51-8e8a-ee127d376e86",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:52.674Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 15139,
+                  "articleNumber": "A0003246822",
+                  "bodyfitId": "",
+                  "bodyfitName": "",
+                  "priceGroup": "",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "95406430-1b15-452a-9d93-ec62c69f1aed",
+                          "source": "bynder",
+                          "updatedAt": "2024-03-07T11:05:53.348Z"
+                      },
+                      "hover": {
+                          "mediaKey": "8068cf67-c10b-4282-b068-296f1e5d0cae",
+                          "source": "bynder",
+                          "updatedAt": "2024-03-07T11:05:53.411Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "95406430-1b15-452a-9d93-ec62c69f1aed",
+                          "source": "bynder",
+                          "updatedAt": "2024-03-07T11:05:53.348Z"
+                      },
+                      "detail": null,
+                      "collar": null,
+                      "cuff": null,
+                      "gallery": [
+                          {
+                              "mediaKey": "95406430-1b15-452a-9d93-ec62c69f1aed",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-07T11:05:53.348Z"
+                          },
+                          {
+                              "mediaKey": "818d375a-ca33-4f9a-9301-508bde96a78a",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-07T14:10:49.419Z"
+                          },
+                          {
+                              "mediaKey": "8068cf67-c10b-4282-b068-296f1e5d0cae",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-07T11:05:53.411Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 599,
+                      "formattedPrice": "599 kr",
+                      "priceBeforeDiscount": 599,
+                      "formattedPriceBeforeDiscount": "599 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      },
+      {
+          "id": 7619,
+          "name": "Gray Silk Pocket Square",
+          "type": "Accessory",
+          "uri": "grey-silk-pocket-square",
+          "colorLinks": [
+              {
+                  "colorId": "3",
+                  "colorName": "Gray",
+                  "displayId": 7619,
+                  "uri": "grey-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "65ab32a3-e2ed-46c2-9a47-6270d037b7b8",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:51.158Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 7620,
+                  "uri": "blue-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "95406430-1b15-452a-9d93-ec62c69f1aed",
+                      "source": "bynder",
+                      "updatedAt": "2024-03-07T11:05:53.348Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "7",
+                  "colorName": "Yellow",
+                  "displayId": 7621,
+                  "uri": "daffodil-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "290208c5-b289-427e-98fb-5d1dba58c677",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:51.971Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "12",
+                  "colorName": "Purple",
+                  "displayId": 7624,
+                  "uri": "lavender-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "f3c2708a-f013-4ef4-a207-572ee43b8feb",
+                      "source": "bynder",
+                      "updatedAt": "2023-06-02T06:00:49.86Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "2",
+                  "colorName": "Off white",
+                  "displayId": 7618,
+                  "uri": "vanilla-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "ae46b540-7d2c-4fa9-b872-99d6f6733a93",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:50.786Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "9",
+                  "colorName": "Pink",
+                  "displayId": 7622,
+                  "uri": "pink-lemonade-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "40b913c5-15c6-4b51-8e8a-ee127d376e86",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:52.674Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 15138,
+                  "articleNumber": "A0003246814",
+                  "bodyfitId": "",
+                  "bodyfitName": "",
+                  "priceGroup": "",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "65ab32a3-e2ed-46c2-9a47-6270d037b7b8",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:00:51.158Z"
+                      },
+                      "hover": {
+                          "mediaKey": "80c1bec7-5191-4067-bb12-c57331a302ac",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:00:51.377Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "65ab32a3-e2ed-46c2-9a47-6270d037b7b8",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:00:51.158Z"
+                      },
+                      "detail": null,
+                      "collar": null,
+                      "cuff": null,
+                      "gallery": [
+                          {
+                              "mediaKey": "65ab32a3-e2ed-46c2-9a47-6270d037b7b8",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-22T11:00:51.158Z"
+                          },
+                          {
+                              "mediaKey": "02ec1b05-a378-494e-8e7f-27e98d5847fd",
+                              "source": "bynder",
+                              "updatedAt": "2024-03-07T14:10:49.383Z"
+                          },
+                          {
+                              "mediaKey": "80c1bec7-5191-4067-bb12-c57331a302ac",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-22T11:00:51.377Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 599,
+                      "formattedPrice": "599 kr",
+                      "priceBeforeDiscount": 599,
+                      "formattedPriceBeforeDiscount": "599 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      },
+      {
+          "id": 7618,
+          "name": "Off white silk pocket square",
+          "type": "Accessory",
+          "uri": "vanilla-silk-pocket-square",
+          "colorLinks": [
+              {
+                  "colorId": "3",
+                  "colorName": "Gray",
+                  "displayId": 7619,
+                  "uri": "grey-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "65ab32a3-e2ed-46c2-9a47-6270d037b7b8",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:51.158Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 7620,
+                  "uri": "blue-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "95406430-1b15-452a-9d93-ec62c69f1aed",
+                      "source": "bynder",
+                      "updatedAt": "2024-03-07T11:05:53.348Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "7",
+                  "colorName": "Yellow",
+                  "displayId": 7621,
+                  "uri": "daffodil-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "290208c5-b289-427e-98fb-5d1dba58c677",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:51.971Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "12",
+                  "colorName": "Purple",
+                  "displayId": 7624,
+                  "uri": "lavender-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "f3c2708a-f013-4ef4-a207-572ee43b8feb",
+                      "source": "bynder",
+                      "updatedAt": "2023-06-02T06:00:49.86Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "2",
+                  "colorName": "Off white",
+                  "displayId": 7618,
+                  "uri": "vanilla-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "ae46b540-7d2c-4fa9-b872-99d6f6733a93",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:50.786Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "9",
+                  "colorName": "Pink",
+                  "displayId": 7622,
+                  "uri": "pink-lemonade-silk-pocket-square",
+                  "retailImage": {
+                      "mediaKey": "40b913c5-15c6-4b51-8e8a-ee127d376e86",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:00:52.674Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 15137,
+                  "articleNumber": "A0003246812",
+                  "bodyfitId": "",
+                  "bodyfitName": "",
+                  "priceGroup": "",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "ae46b540-7d2c-4fa9-b872-99d6f6733a93",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:00:50.786Z"
+                      },
+                      "hover": {
+                          "mediaKey": "f009b5a9-18d1-4e2a-a59e-5290499445db",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:00:51.101Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "ae46b540-7d2c-4fa9-b872-99d6f6733a93",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:00:50.786Z"
+                      },
+                      "detail": null,
+                      "collar": null,
+                      "cuff": null,
+                      "gallery": [
+                          {
+                              "mediaKey": "ae46b540-7d2c-4fa9-b872-99d6f6733a93",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-22T11:00:50.786Z"
+                          },
+                          {
+                              "mediaKey": "f009b5a9-18d1-4e2a-a59e-5290499445db",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-22T11:00:51.101Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 599,
+                      "formattedPrice": "599 kr",
+                      "priceBeforeDiscount": 599,
+                      "formattedPriceBeforeDiscount": "599 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      },
+      {
+          "id": 7577,
+          "name": "Mint dotted bow tie – self tied",
+          "type": "Accessory",
+          "uri": "mint-dotted-bow-tie-self-tied",
+          "colorLinks": [
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 7576,
+                  "uri": "blue-dotted-bow-tie-self-tied",
+                  "retailImage": {
+                      "mediaKey": "2f73d0fa-3be7-47c1-891e-1fa088c7ea5e",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:20:55.18Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "11",
+                  "colorName": "Green",
+                  "displayId": 7577,
+                  "uri": "mint-dotted-bow-tie-self-tied",
+                  "retailImage": {
+                      "mediaKey": "f6145797-3834-499c-9a91-e1bebb88cbba",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:20:55.254Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 15096,
+                  "articleNumber": "A0003241661",
+                  "bodyfitId": "",
+                  "bodyfitName": "",
+                  "priceGroup": "",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "f6145797-3834-499c-9a91-e1bebb88cbba",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:20:55.254Z"
+                      },
+                      "hover": null,
+                      "flatlay": {
+                          "mediaKey": "f6145797-3834-499c-9a91-e1bebb88cbba",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:20:55.254Z"
+                      },
+                      "detail": null,
+                      "collar": null,
+                      "cuff": null,
+                      "gallery": [
+                          {
+                              "mediaKey": "f6145797-3834-499c-9a91-e1bebb88cbba",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-22T11:20:55.254Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 699,
+                      "formattedPrice": "699 kr",
+                      "priceBeforeDiscount": 699,
+                      "formattedPriceBeforeDiscount": "699 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      },
+      {
+          "id": 7576,
+          "name": "Blue dotted bow tie – self tied",
+          "type": "Accessory",
+          "uri": "blue-dotted-bow-tie-self-tied",
+          "colorLinks": [
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 7576,
+                  "uri": "blue-dotted-bow-tie-self-tied",
+                  "retailImage": {
+                      "mediaKey": "2f73d0fa-3be7-47c1-891e-1fa088c7ea5e",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:20:55.18Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "11",
+                  "colorName": "Green",
+                  "displayId": 7577,
+                  "uri": "mint-dotted-bow-tie-self-tied",
+                  "retailImage": {
+                      "mediaKey": "f6145797-3834-499c-9a91-e1bebb88cbba",
+                      "source": "bynder",
+                      "updatedAt": "2023-02-22T11:20:55.254Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 15095,
+                  "articleNumber": "A0003241621",
+                  "bodyfitId": "",
+                  "bodyfitName": "",
+                  "priceGroup": "",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "2f73d0fa-3be7-47c1-891e-1fa088c7ea5e",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:20:55.18Z"
+                      },
+                      "hover": null,
+                      "flatlay": {
+                          "mediaKey": "2f73d0fa-3be7-47c1-891e-1fa088c7ea5e",
+                          "source": "bynder",
+                          "updatedAt": "2023-02-22T11:20:55.18Z"
+                      },
+                      "detail": null,
+                      "collar": null,
+                      "cuff": null,
+                      "gallery": [
+                          {
+                              "mediaKey": "2f73d0fa-3be7-47c1-891e-1fa088c7ea5e",
+                              "source": "bynder",
+                              "updatedAt": "2023-02-22T11:20:55.18Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 699,
+                      "formattedPrice": "699 kr",
+                      "priceBeforeDiscount": 699,
+                      "formattedPriceBeforeDiscount": "699 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      },
+      {
+          "id": 11052,
+          "name": "Navy Filo di Scozia T-Shirt",
+          "type": "Shirt",
+          "uri": "navy-filo-di-scozia-t-shirt-t-shirt",
+          "colorLinks": [
+              {
+                  "colorId": "11",
+                  "colorName": "Green",
+                  "displayId": 9927,
+                  "uri": "green-filo-di-scozia-t-shirt",
+                  "retailImage": {
+                      "mediaKey": "b547caa7-b55f-4cf4-862f-2a9a809b76ac",
+                      "source": "bynder",
+                      "updatedAt": "2023-09-18T11:35:50.322Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "1",
+                  "colorName": "White",
+                  "displayId": 9923,
+                  "uri": "white-filo-di-scozia-t-shirt",
+                  "retailImage": {
+                      "mediaKey": "70bcdc05-8f1b-4f36-bc82-7e2c996b2f26",
+                      "source": "bynder",
+                      "updatedAt": "2023-10-03T09:10:49.354Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "10",
+                  "colorName": "Red",
+                  "displayId": 14560,
+                  "uri": "red-jersey-t-shirt-short-sleeve-boxfit-t-shirt",
+                  "retailImage": {
+                      "mediaKey": "ec1bf7e3-53b5-4f61-b357-9df1a6abf4ac",
+                      "source": "bynder",
+                      "updatedAt": "2023-10-03T09:05:52.455Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "3",
+                  "colorName": "Gray",
+                  "displayId": 11051,
+                  "uri": "grey-filo-di-scozia-t-shirt-t-shirt",
+                  "retailImage": {
+                      "mediaKey": "c336bda8-a379-4e59-95f0-fc50bfebfeda",
+                      "source": "bynder",
+                      "updatedAt": "2023-10-03T09:05:56.306Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "4",
+                  "colorName": "Black",
+                  "displayId": 9924,
+                  "uri": "black-filo-di-scozia-t-shirt",
+                  "retailImage": {
+                      "mediaKey": "9efe3b77-4057-4bc0-9198-4094a9a6949c",
+                      "source": "bynder",
+                      "updatedAt": "2023-09-18T11:25:50.052Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 11052,
+                  "uri": "navy-filo-di-scozia-t-shirt-t-shirt",
+                  "retailImage": {
+                      "mediaKey": "ab01f68a-53f7-4536-bf0a-d3458e406065",
+                      "source": "bynder",
+                      "updatedAt": "2023-10-03T09:05:54.021Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 20301,
+                  "articleNumber": "10000235628",
+                  "bodyfitId": "13",
+                  "bodyfitName": "T-shirt",
+                  "priceGroup": "15",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "b95b9792-84f4-44f4-8bed-1d79239baf53",
+                          "source": "bynder",
+                          "updatedAt": "2023-10-03T09:05:54.069Z"
+                      },
+                      "hover": {
+                          "mediaKey": "f757254b-9df7-4d19-8378-b4662e1ec9bc",
+                          "source": "bynder",
+                          "updatedAt": "2023-10-03T09:05:53.988Z"
+                      },
+                      "flatlay": {
+                          "mediaKey": "b95b9792-84f4-44f4-8bed-1d79239baf53",
+                          "source": "bynder",
+                          "updatedAt": "2023-10-03T09:05:54.069Z"
+                      },
+                      "detail": {
+                          "mediaKey": "ab01f68a-53f7-4536-bf0a-d3458e406065",
+                          "source": "bynder",
+                          "updatedAt": "2023-10-03T09:05:54.021Z"
+                      },
+                      "collar": {
+                          "mediaKey": "f757254b-9df7-4d19-8378-b4662e1ec9bc",
+                          "source": "bynder",
+                          "updatedAt": "2023-10-03T09:05:53.988Z"
+                      },
+                      "cuff": null,
+                      "gallery": [
+                          {
+                              "mediaKey": "b95b9792-84f4-44f4-8bed-1d79239baf53",
+                              "source": "bynder",
+                              "updatedAt": "2023-10-03T09:05:54.069Z"
+                          },
+                          {
+                              "mediaKey": "e980470c-1787-44a9-90c0-9f81b1380102",
+                              "source": "bynder",
+                              "updatedAt": "2023-10-03T09:05:54.046Z"
+                          },
+                          {
+                              "mediaKey": "6d2812a0-e986-47a5-a087-49dcedcff428",
+                              "source": "bynder",
+                              "updatedAt": "2024-01-10T14:10:49.599Z"
+                          },
+                          {
+                              "mediaKey": "ab01f68a-53f7-4536-bf0a-d3458e406065",
+                              "source": "bynder",
+                              "updatedAt": "2023-10-03T09:05:54.021Z"
+                          },
+                          {
+                              "mediaKey": "f757254b-9df7-4d19-8378-b4662e1ec9bc",
+                              "source": "bynder",
+                              "updatedAt": "2023-10-03T09:05:53.988Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 1600,
+                      "formattedPrice": "1 600 kr",
+                      "priceBeforeDiscount": 1600,
+                      "formattedPriceBeforeDiscount": "1 600 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      },
+      {
+          "id": 7159,
+          "name": "Black Flannel Logo Baseball Cap",
+          "type": "Accessory",
+          "uri": "charcoal-black-flannel-logo-baseball-cap",
+          "colorLinks": [
+              {
+                  "colorId": "5",
+                  "colorName": "Blue",
+                  "displayId": 7160,
+                  "uri": "navy-flannel-logo-baseball-cap",
+                  "retailImage": {
+                      "mediaKey": "64f9a5a9-056c-44a9-b06b-e01a7b653228",
+                      "source": "bynder",
+                      "updatedAt": "2023-09-18T11:55:51.124Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "6",
+                  "colorName": "Brown",
+                  "displayId": 9085,
+                  "uri": "beige-flannel-logo-baseball-cap",
+                  "retailImage": {
+                      "mediaKey": "9b10bbaf-d3f5-41ed-a682-aa4a2959e6ee",
+                      "source": "bynder",
+                      "updatedAt": "2023-09-18T11:55:50.177Z"
+                  },
+                  "inStock": false
+              },
+              {
+                  "colorId": "3",
+                  "colorName": "Gray",
+                  "displayId": 7158,
+                  "uri": "grey-flannel-logo-baseball-cap",
+                  "retailImage": {
+                      "mediaKey": "af93e3ba-bfe6-4088-8afd-945bb1fd8b94",
+                      "source": "bynder",
+                      "updatedAt": "2023-09-18T11:55:50.989Z"
+                  },
+                  "inStock": true
+              },
+              {
+                  "colorId": "4",
+                  "colorName": "Black",
+                  "displayId": 7159,
+                  "uri": "charcoal-black-flannel-logo-baseball-cap",
+                  "retailImage": {
+                      "mediaKey": "bca7f1be-c6bc-4239-9e21-7476bde731dd",
+                      "source": "bynder",
+                      "updatedAt": "2023-09-18T11:55:51.079Z"
+                  },
+                  "inStock": true
+              }
+          ],
+          "productVariants": [
+              {
+                  "id": 16919,
+                  "articleNumber": "A0003268819",
+                  "bodyfitId": "",
+                  "bodyfitName": "",
+                  "priceGroup": "",
+                  "isAvailableCustomMade": false,
+                  "retailImages": {
+                      "thumbnail": {
+                          "mediaKey": "bca7f1be-c6bc-4239-9e21-7476bde731dd",
+                          "source": "bynder",
+                          "updatedAt": "2023-09-18T11:55:51.079Z"
+                      },
+                      "hover": null,
+                      "flatlay": {
+                          "mediaKey": "bca7f1be-c6bc-4239-9e21-7476bde731dd",
+                          "source": "bynder",
+                          "updatedAt": "2023-09-18T11:55:51.079Z"
+                      },
+                      "detail": null,
+                      "collar": null,
+                      "cuff": null,
+                      "gallery": [
+                          {
+                              "mediaKey": "bca7f1be-c6bc-4239-9e21-7476bde731dd",
+                              "source": "bynder",
+                              "updatedAt": "2023-09-18T11:55:51.079Z"
+                          },
+                          {
+                              "mediaKey": "3569478d-032c-44c4-86da-dfa7d9c20018",
+                              "source": "bynder",
+                              "updatedAt": "2023-09-18T11:55:51.034Z"
+                          }
+                      ]
+                  },
+                  "price": {
+                      "priceListId": 19,
+                      "price": 1399,
+                      "formattedPrice": "1 399 kr",
+                      "priceBeforeDiscount": 1399,
+                      "formattedPriceBeforeDiscount": "1 399 kr",
+                      "discountPercent": 0,
+                      "showAsOnSale": false,
+                      "showAsNew": false
+                  }
+              }
+          ]
+      }
+  ],
+  "facetData": {
+      "colors": null,
+      "patterns": null,
+      "fabrics": null,
+      "collars": null,
+      "cuffs": null,
+      "centraCategories": null,
+      "bodyfits": null,
+      "availableCustomMadeCount": 0
+  },
+  "totalCount": 305
+}
