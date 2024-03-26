@@ -1,0 +1,26 @@
+.card {
+  width: 40%;
+  margin: 15px;
+  box-sizing: border-box;
+  float: left;
+  text-align: left;
+  padding-top: 10px;
+}
+
+.card-body {
+  padding-left: 20px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+  justify-content: space-around;
+}
+
+@media(max-width:768px){
+  .card {
+    width: 100%;
+  }
+}
