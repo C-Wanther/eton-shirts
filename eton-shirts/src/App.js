@@ -1,10 +1,10 @@
 import "./App.css";
-import ProductCard from "./ProductCard/index.tsx";
+import ProductList from "./Components/ProductList/index.tsx";
 
 function App() {
   return (
     <div className="App">
-      <ProductCard />
+      <ProductList />
     </div>
   );
 }
